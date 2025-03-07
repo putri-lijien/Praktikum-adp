@@ -1,0 +1,4 @@
+# Praktikum-adp
+NAMA: LIJIEN PUTRI 
+NIM : 2410432026
+SHIFT : 1
